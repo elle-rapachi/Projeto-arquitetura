@@ -1,0 +1,1 @@
+Esse projeto visa a criação de um site utilizando o framework Bootstrap, colocando assim em prática o aprendizado dessa ferramenta inrível
